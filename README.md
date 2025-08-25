@@ -28,22 +28,33 @@
 
 ## 🎯 **PROFESSIONAL SUMMARY**
 
-- **Name**: Agliam Bim Rochee
-- **Title**: Information Technology Professional
-- **Education**: 
-  - Degree: BS Information Technology
-  - Major: Information Security
-  - University: University of Southeastern Philippines
-  - Honor: Cum Laude
-  - Graduation: 2025
-- **Passion**: Mobile Development, Web Architecture, System Security
-- **Current Focus**: Creating impactful technological solutions
-- **Philosophy**: Excellence through innovation and user-centered design
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BimRochee&custom_title=Contribution%20Activity&bg_color=0d1117&color=FF6B35&line=FF6B35&point=FFFFFF&area_color=FF6B35&title_color=FFFFFF&area=true">
+<!-- Professional Summary Header with Gradient Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3"/>
 </div>
+<div align="center">
+<table>
+<tr>
+<td width="60%" align="left">
+👨‍💻 PROFILE OVERVIEW
 
+Name: Agliam Bim Rochee
+Title: Information Technology Professional
+Education:
+
+Degree: BS Information Technology
+Major: Information Security
+University: University of Southeastern Philippines
+Honor: 🏆 Cum Laude
+Graduation: 2025
+
+
+Passion: Mobile Development • Web Architecture • System Security
+Current Focus: Creating impactful technological solutions
+Philosophy: Excellence through innovation and user-centered design
+
+</td>
+<td width="40%" align="center">
 ---
 
 ## 🏆 **ACADEMIC EXCELLENCE**
@@ -80,7 +91,7 @@ Focus: Tourism Management Innovation
 
 ---
 
-## 💻 **TECH STACK MASTERY**
+## 💻 **TECH STACK**
 
 <div align="center">
 
@@ -112,62 +123,6 @@ Focus: Tourism Management Innovation
 </div>
 
 ---
-
-## 🚀 **FEATURED PROJECTS**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🍫 **Cacao Traceability System**
-*Professional Internship • USeP R&D Office*
-
-```mermaid
-graph TD
-    A[🌱 Cacao Farm] --> B[📱 Flutter App]
-    B --> C[🔥 Firebase Backend]
-    C --> D[📊 Analytics Dashboard]
-    D --> E[🎯 Supply Chain Optimization]
-    
-    style A fill:#2ECC71
-    style B fill:#3498DB
-    style C fill:#E74C3C
-    style D fill:#F39C12
-    style E fill:#9B59B6
-```
-
-**Impact:** Enhanced agricultural transparency & efficiency
-
-</td>
-<td width="50%">
-
-### 🏖️ **TraKs Tourism System**
-*🏆 Award-Winning Capstone Project*
-
-```mermaid
-graph LR
-    A[👥 Tourists] --> B[📱 Mobile App]
-    B --> C[🌐 Web Platform]
-    C --> D[🏛️ LGU Dashboard]
-    D --> E[📈 Real-time Analytics]
-    
-    style A fill:#FF6B35
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-```
-
-**Achievement:** Best Poster Award Winner 2025
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 📊 **PERFORMANCE METRICS**
 
 <div align="center">
@@ -206,29 +161,6 @@ Developing       ████████░░░░░░░░░░░░  4
 
 ---
 
-## 🌟 **PROJECT SHOWCASE**
-
-<div align="center">
-
-### 📱 **Mobile Development Journey**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BimRochee&theme=dark&hide_border=true&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35">
-
-### 🏗️ **Architecture Philosophy**
-```ascii
-    ╔═══════════════════════════════════════════════════════════════════╗
-    ║                        🎯 DEVELOPMENT MINDSET                    ║
-    ╠═══════════════════════════════════════════════════════════════════╣
-    ║  🎨 User-Centered Design  │  🔒 Security-First Approach         ║
-    ║  ⚡ Performance Optimized  │  🧩 Modular Architecture           ║
-    ║  📱 Cross-Platform Ready  │  🔄 Agile Development Process      ║
-    ║  🌐 Scalable Solutions    │  💡 Innovation-Driven Thinking     ║
-    ╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🎨 **PROFESSIONAL PHILOSOPHY**
 
 <div align="center">
@@ -238,11 +170,6 @@ Developing       ████████░░░░░░░░░░░░  4
 > ### *to user-centered development."*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2"/>
-
-**🎯 Mission Statement**
-*Dedicated to advancing information technology through continuous learning,*  
-*innovative problem-solving, and creating impactful digital solutions that serve*  
-*both individual users and broader societal needs.*
 
 </div>
 
@@ -261,23 +188,13 @@ Developing       ████████░░░░░░░░░░░░  4
 ### 💼 **Career Opportunities**
 🚀 Full-Stack Development  
 📱 Mobile App Projects  
-🔒 Security Consulting  
-
-</td>
-<td align="center" width="33%">
-
-### 🔬 **Research Collaboration**
-📊 Academic Partnerships  
-💡 Innovation Projects  
-🏆 Competition Teams  
 
 </td>
 <td align="center" width="33%">
 
 ### 🌐 **Open Source**
 🔧 Community Projects  
-📚 Knowledge Sharing  
-🤝 Mentorship Programs  
+📚 Knowledge Sharing    
 
 </td>
 </tr>
