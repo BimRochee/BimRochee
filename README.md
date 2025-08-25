@@ -29,66 +29,21 @@
 ## 🎯 **PROFESSIONAL SUMMARY**
 
 <div align="center">
-
-interface Developer {
-  readonly identity: PersonalInfo;
-  readonly expertise: TechnicalSkills;
-  readonly achievements: Recognition[];
-  readonly vision: string;
-}
-
-class AgliamBimRochee implements Developer {
-  readonly identity = {
-    name: "Agliam Bim Rochee" as const,
-    title: "Full-Stack Developer & IT Security Specialist",
-    location: "🇵🇭 Davao de Oro, Philippines",
-    status: "🎓 Graduating Cum Laude | Class of 2025"
-  };
-
-  readonly expertise = {
-    frontend: ["HTML5", "CSS3", "JavaScript"] as const,
-    backend: ["PHP", "Laravel", "Java"] as const,
-    mobile: ["Flutter", "Dart"] as const,
-    database: ["Firebase", "Supabase"] as const,
-    specialization: "Information Security & System Architecture"
-  };
-
-  readonly achievements = [
-    "🏆 Best Poster Award - CDITE XI PakiglambigIT 2025",
-    "🎓 Cum Laude Graduate - University of Southeastern Philippines",
-    "💼 DOST-PCAARRD Research Intern - Cacao Traceability System",
-    "🚀 Award-Winning Capstone - TraKs Tourism Management Platform"
-  ];
-
-  readonly vision = `
-    🎯 Mission: Bridging innovation with practical solutions
-    💡 Philosophy: User-centered design meets robust architecture
-    🌟 Goal: Advancing technology for societal impact
-  `;
-
-  // Current focus and availability
-  getCurrentProjects(): string[] {
-    return [
-      "🍫 Cacao Supply Chain Innovation (DOST-PCAARRD)",
-      "🏖️ Tourism Management System (Capstone Research)",
-      "🔒 Advanced Security Implementation Studies"
-    ];
-  }
-
-  getAvailableFor(): string[] {
-    return [
-      "💼 Full-Stack Development Opportunities",
-      "🔬 Research Collaborations",
-      "🤝 Open Source Contributions",
-      "📚 Knowledge Sharing & Mentorship"
-    ];
-  }
-}
-
-// Initialize developer instance
-const developer = new AgliamBimRochee();
-console.log("🚀 Ready to innovate and collaborate!");
-
+typescript
+const agliam = {
+    name: "Agliam Bim Rochee",
+    title: "Information Technology Professional",
+    education: {
+        degree: "BS Information Technology",
+        major: "Information Security",
+        university: "University of Southeastern Philippines",
+        honor: "Cum Laude",
+        graduation: "2025"
+    },
+    passion: ["Mobile Development", "Web Architecture", "System Security"],
+    currentFocus: "Creating impactful technological solutions",
+    philosophy: "Excellence through innovation and user-centered design"
+};
 </div>
 
 <div align="center">
