@@ -25,36 +25,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-
-## 🎯 **PROFESSIONAL SUMMARY**
-
-<div align="center">
-<!-- Professional Summary Header with Gradient Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3"/>
-</div>
-<div align="center">
-<table>
-<tr>
-<td width="60%" align="left">
-👨‍💻 PROFILE OVERVIEW
-
-Name: Agliam Bim Rochee
-Title: Information Technology Professional
-Education:
-
-Degree: BS Information Technology
-Major: Information Security
-University: University of Southeastern Philippines
-Honor: 🏆 Cum Laude
-Graduation: 2025
-
-
-Passion: Mobile Development • Web Architecture • System Security
-Current Focus: Creating impactful technological solutions
-Philosophy: Excellence through innovation and user-centered design
-
-</td>
-<td width="40%" align="center">
 ---
 
 ## 🏆 **ACADEMIC EXCELLENCE**
