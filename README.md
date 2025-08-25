@@ -6,7 +6,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Agliam%20Bim%20Rochee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Professional&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🏆+Cum+Laude+Graduate;🚀+Mobile+%26+Web+Developer;✨+Continuous+Innovation+%26+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🏆+Cum+Laude+Graduate;🚀+Mobile+%26+Web+Developer)](https://git.io/typing-svg)
 
 <!-- Social Badges with Hover Effects -->
 <p>
@@ -29,7 +29,7 @@
 ## 🎯 **PROFESSIONAL SUMMARY**
 
 <div align="center">
-typescript
+```typescript
 const agliam = {
     name: "Agliam Bim Rochee",
     title: "Information Technology Professional",
