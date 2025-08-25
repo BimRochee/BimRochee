@@ -1,4 +1,4 @@
-# 🌟 AGLIAM BIM ROCHEE
+# AGLIAM BIM ROCHEE
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Agliam%20Bim%20Rochee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Professional&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🛡️+Major+in+Information+Security;🏆+Cum+Laude+Graduate+%7C+Class+of+2025;🚀+Mobile+%26+Web+Development+Specialist;💡+Flutter+%26+Laravel+Architecture+Expert;✨+Continuous+Innovation+%26+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🛡️+Major+in+Information+Security;🏆+Cum+Laude+Graduate;🚀+Mobile+%26+Web+Developer;✨+Continuous+Innovation+%26+Excellence)](https://git.io/typing-svg)
 
 <!-- Social Badges with Hover Effects -->
 <p>
@@ -67,7 +67,7 @@ const agliam: Developer = {
 Degree: Bachelor of Science in IT
 Major: Information Security
 Institution: University of Southeastern Philippines
-Status: Graduating June 2025
+Status: Graduated June 2025
 Honor: 🏆 CUM LAUDE
 ```
 
