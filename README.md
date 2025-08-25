@@ -54,9 +54,9 @@ I'm a passionate IT graduate with hands-on experience in mobile and web developm
 
 <div align="center">
 
-![Agliam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Agliam's GitHub stats](https://github-readme-stats.vercel.app/api?username=BimRochee&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimRochee&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -97,6 +97,6 @@ Familiar        ██████████░░░░░░░░░░   B
 
 ### Thanks for visiting my profile! Feel free to reach out for collaboration opportunities! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=BimRochee&color=blue&style=for-the-badge)
 
 </div>
