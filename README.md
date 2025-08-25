@@ -31,21 +31,7 @@
 <div align="center">
 
 ```typescript
-interface Developer {
-  name: string;
-  title: string;
-  education: {
-    degree: string;
-    major: string;
-    university: string;
-    honor: string;
-    graduation: string;
-  };
-  passion: string[];
-  currentFocus: string;
-  philosophy: string;
-}
-const agliam: Developer = {
+const agliam = {
     name: "Agliam Bim Rochee",
     title: "Information Technology Professional",
     education: {
