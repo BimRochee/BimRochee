@@ -6,7 +6,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Agliam%20Bim%20Rochee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Professional&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🛡️+Major+in+Information+Security;🏆+Cum+Laude+Graduate;🚀+Mobile+%26+Web+Developer;✨+Continuous+Innovation+%26+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎓+Bachelor+of+Science+in+Information+Technology;🏆+Cum+Laude+Graduate;🚀+Mobile+%26+Web+Developer;✨+Continuous+Innovation+%26+Excellence)](https://git.io/typing-svg)
 
 <!-- Social Badges with Hover Effects -->
 <p>
@@ -30,22 +30,64 @@
 
 <div align="center">
 
-```typescript
-const agliam = {
-    name: "Agliam Bim Rochee",
-    title: "Information Technology Professional",
-    education: {
-        degree: "BS Information Technology",
-        major: "Information Security",
-        university: "University of Southeastern Philippines",
-        honor: "Cum Laude",
-        graduation: "2025"
-    },
-    passion: ["Mobile Development", "Web Architecture", "System Security"],
-    currentFocus: "Creating impactful technological solutions",
-    philosophy: "Excellence through innovation and user-centered design"
-};
-```
+interface Developer {
+  readonly identity: PersonalInfo;
+  readonly expertise: TechnicalSkills;
+  readonly achievements: Recognition[];
+  readonly vision: string;
+}
+
+class AgliamBimRochee implements Developer {
+  readonly identity = {
+    name: "Agliam Bim Rochee" as const,
+    title: "Full-Stack Developer & IT Security Specialist",
+    location: "🇵🇭 Davao de Oro, Philippines",
+    status: "🎓 Graduating Cum Laude | Class of 2025"
+  };
+
+  readonly expertise = {
+    frontend: ["HTML5", "CSS3", "JavaScript"] as const,
+    backend: ["PHP", "Laravel", "Java"] as const,
+    mobile: ["Flutter", "Dart"] as const,
+    database: ["Firebase", "Supabase"] as const,
+    specialization: "Information Security & System Architecture"
+  };
+
+  readonly achievements = [
+    "🏆 Best Poster Award - CDITE XI PakiglambigIT 2025",
+    "🎓 Cum Laude Graduate - University of Southeastern Philippines",
+    "💼 DOST-PCAARRD Research Intern - Cacao Traceability System",
+    "🚀 Award-Winning Capstone - TraKs Tourism Management Platform"
+  ];
+
+  readonly vision = `
+    🎯 Mission: Bridging innovation with practical solutions
+    💡 Philosophy: User-centered design meets robust architecture
+    🌟 Goal: Advancing technology for societal impact
+  `;
+
+  // Current focus and availability
+  getCurrentProjects(): string[] {
+    return [
+      "🍫 Cacao Supply Chain Innovation (DOST-PCAARRD)",
+      "🏖️ Tourism Management System (Capstone Research)",
+      "🔒 Advanced Security Implementation Studies"
+    ];
+  }
+
+  getAvailableFor(): string[] {
+    return [
+      "💼 Full-Stack Development Opportunities",
+      "🔬 Research Collaborations",
+      "🤝 Open Source Contributions",
+      "📚 Knowledge Sharing & Mentorship"
+    ];
+  }
+}
+
+// Initialize developer instance
+const developer = new AgliamBimRochee();
+console.log("🚀 Ready to innovate and collaborate!");
 
 </div>
 
