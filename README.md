@@ -28,23 +28,17 @@
 
 ## 🎯 **PROFESSIONAL SUMMARY**
 
-<div align="center">
-```typescript
-const agliam = {
-    name: "Agliam Bim Rochee",
-    title: "Information Technology Professional",
-    education: {
-        degree: "BS Information Technology",
-        major: "Information Security",
-        university: "University of Southeastern Philippines",
-        honor: "Cum Laude",
-        graduation: "2025"
-    },
-    passion: ["Mobile Development", "Web Architecture", "System Security"],
-    currentFocus: "Creating impactful technological solutions",
-    philosophy: "Excellence through innovation and user-centered design"
-};
-</div>
+- **Name**: Agliam Bim Rochee
+- **Title**: Information Technology Professional
+- **Education**: 
+  - Degree: BS Information Technology
+  - Major: Information Security
+  - University: University of Southeastern Philippines
+  - Honor: Cum Laude
+  - Graduation: 2025
+- **Passion**: Mobile Development, Web Architecture, System Security
+- **Current Focus**: Creating impactful technological solutions
+- **Philosophy**: Excellence through innovation and user-centered design
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BimRochee&custom_title=Contribution%20Activity&bg_color=0d1117&color=FF6B35&line=FF6B35&point=FFFFFF&area_color=FF6B35&title_color=FFFFFF&area=true">
