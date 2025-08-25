@@ -12,7 +12,7 @@ I'm a passionate IT graduate with hands-on experience in mobile and web developm
 
 - 🎓 **Bachelor of Science in Information Technology** - Major in Information Security
 - 🏛️ **University of Southeastern Philippines** (Graduated: June 2025, Cum Laude)
-- 📱 Currently working on **Cacao Traceability System** and **TraKs Mobile & Web System**
+- 📱 **Cacao Traceability System** and **TraKs Mobile & Web System**
 - 🌱 Always exploring new technologies and best practices
 - 💼 Open to collaboration and exciting opportunities
 
